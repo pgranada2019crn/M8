@@ -1,0 +1,6 @@
+index.html
+media/pictures/favicon/*
+media/pictures/header/*
+media/pictures/*
+css/*
+js/*
